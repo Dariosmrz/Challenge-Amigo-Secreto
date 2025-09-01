@@ -16,8 +16,6 @@ La idea era recrear el clásico juego de "Amigo Secreto", donde uno mete los nom
 - CSS (para darle un poco de estilo)
 - JavaScript (donde está toda la magia del juego)
 
-## Estructura del proyecto
-
 
 ##  Cómo funciona (paso a paso)
 1. Escribo un nombre en el input y lo agrego con el botón "Añadir".
